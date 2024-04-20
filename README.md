@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahamahmed
   
-- 🌱 I’m currently learning typescript
+- 🌱 MERN and Nextjs
 - 
 - 📫 How to reach me ... sahamahmed70@gmail.com
 
