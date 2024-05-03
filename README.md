@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @sahamahmed
-  
+- 
 - 🌱 MERN and Nextjs
 - 
 - 📫 How to reach me ... sahamahmed70@gmail.com
